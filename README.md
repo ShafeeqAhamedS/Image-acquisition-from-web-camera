@@ -102,7 +102,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![capture](https://user-images.githubusercontent.com/93427237/225400012-98ede276-0734-4e33-ba1f-5cb1812eb306.jpg)
+![capture](https://user-images.githubusercontent.com/93427237/225405087-35f63604-2043-480f-a5d7-28e48ef98d8e.jpg)
 
 ### ii) Display the video
 ![image](https://user-images.githubusercontent.com/93427237/225399404-42069871-7bb9-4654-87cc-3bd83454aa80.png)
